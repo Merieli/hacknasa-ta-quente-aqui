@@ -4,19 +4,19 @@
 </h1>
 
 <p align="center">
-  Our project consists of receiving user submissions through a database with important details about fire incidents, which users can utilize from anywhere in the world to report a fire.
-  We consult publicly available NASA data that monitors the entire world in real-time and reflect this data, updating it every minute. Data older than 48 hours is automatically removed from the system.
-<br><br>
-<a href="https://opensource.org/licenses/MIT">
-<img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-</a>
-<br><br>
-    
-We provide an interface where the user can:
-  - Report a fire incident
-  - View a global map to understand where fire outbreaks are occurring
-  In the future, we can implement notifications for institutions involved in firefighting and property owners in specific regions, whether they are private or municipal.
+    Our solution is a web application designed to display and record global wildfires. Users will be able to view NASA-provided data in a simple, automated, and real-time manner, while also allowing them to report fire incidents. The project is user-friendly and adds value to the entire population, with a focus on real-time global wildfire display and monitoring. Users will have the ease of intuitively accessing NASA-provided data and reporting wildfires in their regions, actively contributing to the monitoring and control of these events.
 <br/>
+</p>
+
+<p>
+Our project consists of receiving user submissions through a database with important details about fire incidents, which users can utilize from anywhere in the world to report a fire.
+We consult publicly available NASA data that monitors the entire world in real-time and reflect this data, updating it every minute. Data older than 48 hours is automatically removed from the system.
+We provide an interface where the user can:
+    
+- Report a fire incident
+- View a global map to understand where fire outbreaks are occurring
+    
+In the future, we can implement notifications for institutions involved in firefighting and property owners in specific regions, whether they are private or municipal.
 </p>
 
 [_👀 Project Demo_](https://www.youtube.com/watch?v=cfl8_BOlo_M)
