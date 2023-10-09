@@ -1,25 +1,25 @@
 <h1 align="center">
     <br>
-    <img src="src/assets/logo-black.png" alt="Logo" width="230" alt="Tá quente aqui">
+    <img src="imgs/logo-black.png" alt="Logo" width="230" alt="Tá quente aqui">
 </h1>
 
 <p align="center">
-    Our project consists of receiving user submissions through a database with important details about fire incidents, which users can utilize from anywhere in the world to report a fire.
+  Our project consists of receiving user submissions through a database with important details about fire incidents, which users can utilize from anywhere in the world to report a fire.
 
-    We consult publicly available NASA data that monitors the entire world in real-time and reflect this data, updating it every minute. Data older than 48 hours is automatically removed from the system.
+We consult publicly available NASA data that monitors the entire world in real-time and reflect this data, updating it every minute. Data older than 48 hours is automatically removed from the system.
 
-    We provide an interface where the user can:
+We provide an interface where the user can:
 
-    Report a fire incident
-    View a global map to understand where fire outbreaks are occurring
+Report a fire incident
+View a global map to understand where fire outbreaks are occurring
 
-    In the future, we can implement notifications for institutions involved in firefighting and property owners in specific regions, whether they are private or municipal.
+In the future, we can implement notifications for institutions involved in firefighting and property owners in specific regions, whether they are private or municipal.
 
-    <br><br>
-    <a href="https://opensource.org/licenses/MIT">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-    </a>
-    <br><br>
+<br><br>
+<a href="https://opensource.org/licenses/MIT">
+<img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+</a>
+<br><br>
 
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 📸 Preview
 
-<img src=".doc/home.png" width="728px"/>
+<img src="imgs/home.png" width="728px"/>
 
 <br>
 
