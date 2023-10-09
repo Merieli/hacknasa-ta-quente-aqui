@@ -22,7 +22,7 @@
 
 ## 🗂 Install
 
-[Frontend](https://github.com/Merieli/hackaton-nasa-front)
+[Frontend](https://github.com/Merieli/hackaton-nasa-front) -
 [Backend](https://github.com/jotope94/nasa-backend)
 
 ```bash
