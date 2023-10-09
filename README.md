@@ -6,16 +6,17 @@
 <p align="center">
   Our project consists of receiving user submissions through a database with important details about fire incidents, which users can utilize from anywhere in the world to report a fire.
   We consult publicly available NASA data that monitors the entire world in real-time and reflect this data, updating it every minute. Data older than 48 hours is automatically removed from the system.
-  We provide an interface where the user can:
-  - Report a fire incident
-  - View a global map to understand where fire outbreaks are occurring
-  In the future, we can implement notifications for institutions involved in firefighting and property owners in specific regions, whether they are private or municipal.
 <br><br>
 <a href="https://opensource.org/licenses/MIT">
 <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
 </a>
 <br><br>
-
+    
+We provide an interface where the user can:
+  - Report a fire incident
+  - View a global map to understand where fire outbreaks are occurring
+  In the future, we can implement notifications for institutions involved in firefighting and property owners in specific regions, whether they are private or municipal.
+<br/>
 </p>
 
 [_👀 Project Demo_](https://www.youtube.com/watch?v=cfl8_BOlo_M)
