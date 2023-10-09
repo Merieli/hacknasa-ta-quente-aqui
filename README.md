@@ -20,13 +20,10 @@
 
 [_👀 Project Demo_](https://www.youtube.com/watch?v=cfl8_BOlo_M)
 
-## 📸 Preview
-
-<img src="imgs/home.png" width="728px"/>
-
-<br>
-
 ## 🗂 Install
+
+[Frontend](https://github.com/Merieli/hackaton-nasa-front)
+[Backend](https://github.com/jotope94/nasa-backend)
 
 ```bash
 # Install the front-end of the project following the step-by-step instructions mentioned in the project's Readme below:
@@ -35,6 +32,12 @@ https://github.com/Merieli/hackaton-nasa-front
 # Install the backend of the project following the step-by-step instructions mentioned in the project's Readme below:
 https://github.com/jotope94/nasa-backend
 ```
+
+## 📸 Preview
+
+<img src="imgs/home.png" width="728px"/>
+
+<br>
 
 ## Space Agency Data
 
